@@ -10,9 +10,11 @@ setuptools.setup(
     install_requires=[
         'odoo12-addon-account_invoice_comment_template',
         'odoo12-addon-account_invoice_line_report',
+        'odoo12-addon-account_invoice_production_lot',
         'odoo12-addon-account_invoice_report_due_list',
         'odoo12-addon-account_invoice_report_grouped_by_picking',
         'odoo12-addon-account_invoice_report_hide_line',
+        'odoo12-addon-account_reporting_weight',
         'odoo12-addon-base_comment_template',
         'odoo12-addon-partner_time_to_pay',
     ],
